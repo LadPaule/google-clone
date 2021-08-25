@@ -13,7 +13,7 @@ function Footer() {
         <div className="flex justify-center space-x-8 whitespace-nowrap md:justify-self-start">
           <p>Advertising</p>
           <p>Business</p>
-          <p>How Search works?</p>
+          <p>Google clone by PaulRuby</p>
         </div>
 
         <div className="flex justify-center space-x-8 md:ml-auto">
